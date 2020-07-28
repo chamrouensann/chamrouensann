@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me👀
-✓ 🎯 Flutter Development | Mobile App Development <br/>
-✓ ✍️ Writing blogs on Medium.com <br/>
-✓ 📩 Ask me about anything chamrouensann.geek@gmail.com <br/>
+- :dart:  Flutter Development | Mobile App Development <br/>
+- :heart: Writing blogs on Medium.com <br/>
+- :e-mail: Ask me about anything chamrouensann.geek@gmail.com <br/>
 
 ![Chamrouen's github stats](https://github-readme-stats.vercel.app/api?username=chamrouensann&show_icons=true&hide_border=true)
 
