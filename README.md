@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me👀
-✓ 🎯 Flutter Development | Mobile App Development
-✓ ✍️ Writing blogs on Medium.com
-✓ 📩 Ask me about anything chamrouensann.geek@gmail.com
+✓ 🎯 Flutter Development | Mobile App Development \n
+✓ ✍️ Writing blogs on Medium.com \n
+✓ 📩 Ask me about anything chamrouensann.geek@gmail.com \n
 
 
 
