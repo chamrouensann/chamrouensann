@@ -84,6 +84,8 @@ Here are some ideas to get you started:
 ✓ ✍️ Writing blogs on Medium.com <br/>
 ✓ 📩 Ask me about anything chamrouensann.geek@gmail.com <br/>
 
+![Chamrouen's github stats](https://github-readme-stats.vercel.app/api?username=chamrouensann&show_icons=true&hide_border=true)
+
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
