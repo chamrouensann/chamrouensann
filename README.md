@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm Chamrouen Sann
 
 <!--
 **chamrouensann/chamrouensann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me👀
+✓ 🎯 Flutter Development | Mobile App Development
+✓ ✍️ Writing blogs on Medium.com
+✓ 📩 Ask me about anything chamrouensann.geek@gmail.com
+
+
+
